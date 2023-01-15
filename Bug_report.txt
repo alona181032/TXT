@@ -1,4 +1,17 @@
-Title - Unable Button "Submit"
-STR - Click the button "Submit"
-ER - Button working
-AR - Button unable
+      ID: 1
+      Reporter:	Alona Bohdanets	
+      Assigned to:	31_qa_group	 
+      Status:	Open	
+      Type: 	Bug	
+      Severity:	major	
+      Priority:	medium	
+	    Browser:	Google Chrome 104.0.5112.81	OS:	Windows	OS version	10x64	
+	    Summary:	The link of main site is disabled after clicking					
+	    Pre-conditions:						
+	      Site https://vos-jewelry.com opened in the browser. 					
+	    Steps to reproduce:						
+	    	Click the link in the form of logo "Vos-jewerly" in the top of the page					
+	    Actual result:						
+	      The link of main site is disabled						
+	    Expected result:						
+	      The user is redirected to the main site according to mockups						
